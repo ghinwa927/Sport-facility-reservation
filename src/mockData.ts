@@ -83,7 +83,7 @@ export const INITIAL_USERS: User[] = [
     memberSince: 'Oct 2024',
     bookingsCount: 42,
     status: 'Available',
-    role: 'Admin'
+    role: 'admin'
   },
   {
     id: 'usr-2',
@@ -94,7 +94,7 @@ export const INITIAL_USERS: User[] = [
     memberSince: 'Jan 2025',
     bookingsCount: 28,
     status: 'Available',
-    role: 'Admin'
+    role: 'admin'
   },
   {
     id: 'usr-3',
@@ -105,7 +105,7 @@ export const INITIAL_USERS: User[] = [
     memberSince: 'Mar 2025',
     bookingsCount: 15,
     status: 'Available',
-    role: 'Athlete'
+    role: 'user'
   },
   {
     id: 'usr-4',
@@ -116,7 +116,7 @@ export const INITIAL_USERS: User[] = [
     memberSince: 'Apr 2025',
     bookingsCount: 8,
     status: 'Available',
-    role: 'Athlete'
+    role: 'user'
   },
   {
     id: 'usr-5',
@@ -127,7 +127,7 @@ export const INITIAL_USERS: User[] = [
     memberSince: 'May 2025',
     bookingsCount: 19,
     status: 'Booked',
-    role: 'Athlete'
+    role: 'user'
   },
   {
     id: 'usr-6',
@@ -138,7 +138,7 @@ export const INITIAL_USERS: User[] = [
     memberSince: 'Jun 2025',
     bookingsCount: 0,
     status: 'Suspended',
-    role: 'Athlete'
+    role: 'user'
   }
 ];
 
